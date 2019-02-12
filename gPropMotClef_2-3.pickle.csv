@@ -1,0 +1,509 @@
+@node: #id_pdg,%+voisins,label,shape,type
+a0,"a0,a0,a17,a17,a49,a49,a79,a79,a98,a98,a201,a201,a269,a269,a305,a305,a332,a332,a342,a342,a496,a496",monnaie,circle,0
+a1,"a1,a1,a315,a315,a364,a364",,circle,0
+a2,"a2,a2,a22,a22,a53,a53,a184,a184,a243,a243,a464,a464",avis,circle,0
+a3,"a3,a3,a69,a69,a205,a205,a228,a228,a478,a478",sécurité sociale,circle,0
+a4,"a4,a4,a284,a284,a311,a311",transport,circle,0
+a5,"a5,a5,a116,a116,a127,a127,a141,a141,a214,a214,a232,a232,a238,a238,a279,a279,a376,a376,a434,a434,a451,a451,a505,a505,a507,a507",route,circle,0
+a6,"a6,a6",fonctionnaire,circle,0
+a7,"a7,a7,a87,a87,a146,a146,a227,a227,a261,a261,a285,a285,a321,a321",liste gilets,circle,0
+a8,"a8,a8,a32,a32,a86,a86,a179,a179,a282,a282,a349,a349",organisation,circle,0
+a9,"a9,a9,a29,a29,a278,a278,a335,a335,a389,a389,a441,a441",interdiction,circle,0
+a10,"a10,a10,a62,a62",société,circle,0
+a11,"a11,a11,a54,a54,a276,a276",contrôle,circle,0
+a12,"a12,a12,a157,a157,a273,a273,a342,a342,a443,a443,a465,a465,a500,a500",juillet,circle,0
+a13,"a13,a13,a53,a53,a155,a155,a196,a196,a214,a214,a216,a216,a220,a220,a235,a235,a360,a360,a389,a389,a399,a399,a470,a470",cantine,circle,0
+a14,"a14,a14,a217,a217,a260,a260,a271,a271,a275,a275,a309,a309",judiciaire vierge,circle,0
+a15,"a15,a15,a64,a64,a90,a90,a137,a137,a156,a156,a186,a186,a237,a237,a252,a252,a270,a270,a411,a411,a470,a470,a478,a478,a491,a491",maltraitance,circle,0
+a16,"a16,a16,a139,a139,a317,a317",injustice fiscale,circle,0
+a17,"a0,a0,a17,a17,a34,a34,a98,a98,a113,a113,a230,a230,a351,a351,a412,a412,a483,a483,a496,a496",souveraineté,circle,0
+a18,"a18,a18,a96,a96,a149,a149,a191,a191,a227,a227,a268,a268,a297,a297,a306,a306,a357,a357,a383,a383,a448,a448,a474,a474,a480,a480",ensemble de la classe politique,circle,0
+a19,"a19,a19,a25,a25,a62,a62,a156,a156,a239,a239,a351,a351,a352,a352,a370,a370,a412,a412,a455,a455,a496,a496",article,circle,0
+a20,"a20,a20,a47,a47,a271,a271,a309,a309,a365,a365,a460,a460",inscription,circle,0
+a21,"a21,a21,a53,a53,a132,a132,a140,a140,a163,a163,a168,a168,a173,a173,a182,a182,a204,a204,a340,a340,a374,a374,a393,a393,a460,a460,a503,a503",médecin,circle,0
+a22,"a2,a2,a22,a22,a173,a173,a231,a231,a258,a258,a355,a355,a418,a418",sujet,circle,0
+a23,"a23,a23,a114,a114,a253,a253,a304,a304,a343,a343",habitation,circle,0
+a24,"a24,a24,a46,a46,a159,a159,a269,a269,a483,a483,a496,a496",intérêt,circle,0
+a25,"a19,a19,a25,a25,a207,a207,a305,a305,a394,a394,a431,a431,a496,a496",100 milliards,circle,0
+a26,"a26,a26,a38,a38,a333,a333,a342,a342,a346,a346",biens,circle,0
+a27,"a27,a27,a139,a139,a169,a169,a175,a175,a259,a259,a340,a340,a347,a347,a421,a421",pétrole,circle,0
+a28,"a28,a28,a284,a284,a371,a371",majorité,circle,0
+a29,"a9,a9,a29,a29,a75,a75,a216,a216,a223,a223,a230,a230,a259,a259,a366,a366,a387,a387,a483,a483",pêche,circle,0
+a30,"a30,a30,a55,a55,a100,a100,a196,a196,a274,a274,a302,a302,a343,a343,a455,a455",allocations familiales,circle,0
+a31,"a31,a31,a245,a245,a350,a350,a397,a397,a492,a492",adulte handicapé,circle,0
+a32,"a8,a8,a32,a32,a93,a93,a161,a161,a166,a166,a179,a179,a282,a282,a349,a349",communautés de communes,circle,0
+a33,"a33,a33,a456,a456,a461,a461",indexation des retraites,circle,0
+a34,"a17,a17,a34,a34,a51,a51,a65,a65,a113,a113,a427,a427",état et démocratie,circle,0
+a35,"a35,a35,a353,a353",taux,circle,0
+a36,"a36,a36,a65,a65,a141,a141,a269,a269,a303,a303,a333,a333,a434,a434,a451,a451",autoroute,circle,0
+a37,"a37,a37,a468,a468",sénat,circle,0
+a38,"a26,a26,a38,a38,a59,a59,a169,a169,a333,a333,a346,a346,a454,a454",obsolescence,circle,0
+a39,"a39,a39",citoyen,circle,0
+a40,"a40,a40,a83,a83,a298,a298,a422,a422",dividende,circle,0
+a41,"a41,a41,a140,a140,a156,a156",service,circle,0
+a42,"a42,a42,a43,a43,a54,a54,a176,a176,a211,a211,a307,a307,a356,a356,a408,a408,a411,a411",peine,circle,0
+a43,"a42,a42,a43,a43,a92,a92",prison,circle,0
+a44,"a44,a44,a130,a130,a152,a152,a293,a293",baisse de la tva,circle,0
+a45,"a45,a45,a474,a474",ministre,circle,0
+a46,"a24,a24,a46,a46,a72,a72,a92,a92,a200,a200,a244,a244,a276,a276,a327,a327,a378,a378,a399,a399,a402,a402",média,circle,0
+a47,"a20,a20,a47,a47,a80,a80,a99,a99,a106,a106,a131,a131,a468,a468",proportionnelle intégrale,circle,0
+a48,"a48,a48,a192,a192,a207,a207",impôts en france,circle,0
+a49,"a0,a0,a49,a49,a201,a201,a239,a239,a269,a269,a441,a441,a443,a443",banque,circle,0
+a50,"a50,a50,a348,a348",augmentation de le smic,circle,0
+a51,"a34,a34,a51,a51,a100,a100,a319,a319,a365,a365,a460,a460",armée,circle,0
+a52,"a52,a52,a165,a165,a251,a251,a298,a298,a429,a429",petites entreprises,circle,0
+a53,"a2,a2,a13,a13,a21,a21,a53,a53,a316,a316,a393,a393,a404,a404,a464,a464",rendre obligatoire,circle,0
+a54,"a11,a11,a42,a42,a54,a54,a94,a94,a147,a147,a176,a176,a270,a270,a290,a290,a473,a473",racisme,circle,0
+a55,"a30,a30,a55,a55,a245,a245,a285,a285,a430,a430",foyer,circle,0
+a56,"a56,a56,a134,a134,a419,a419,a433,a433",vote obligatoire,circle,0
+a57,"a57,a57,a177,a177,a190,a190,a264,a264,a349,a349",dépenses publiques,circle,0
+a58,"a58,a58,a114,a114,a280,a280,a291,a291,a304,a304,a368,a368,a403,a403",droit d' asile,circle,0
+a59,"a38,a38,a59,a59,a78,a78,a92,a92,a259,a259,a294,a294,a327,a327,a346,a346,a449,a449,a454,a454",amende,circle,0
+a60,"a60,a60,a204,a204,a246,a246,a300,a300,a321,a321,a379,a379,a415,a415,a432,a432,a457,a457",employeur,circle,0
+a61,"a61,a61,a150,a150,a476,a476",isf,circle,0
+a62,"a10,a10,a19,a19,a62,a62,a195,a195,a206,a206,a236,a236,a287,a287,a298,a298,a440,a440,a469,a469",mission,circle,0
+a63,"a63,a63,a194,a194,a195,a195,a231,a231,a274,a274,a285,a285,a332,a332,a355,a355",gpa,circle,0
+a64,"a15,a15,a64,a64,a83,a83,a89,a89,a90,a90,a137,a137,a156,a156,a186,a186,a252,a252,a333,a333,a470,a470,a491,a491",maltraitance animale,circle,0
+a65,"a34,a34,a36,a36,a65,a65,a78,a78,a218,a218",privatisation,circle,0
+a66,"a66,a66",diminution,circle,0
+a67,"a67,a67,a359,a359,a504,a504",sénateur,circle,0
+a68,"a68,a68",économie,circle,0
+a69,"a3,a3,a69,a69,a72,a72,a184,a184,a191,a191,a371,a371,a409,a409,a429,a429,a443,a443,a474,a474",acteur,circle,0
+a70,"a70,a70,a94,a94,a205,a205,a243,a243,a395,a395",solidarité,circle,0
+a71,"a71,a71,a127,a127,a171,a171,a195,a195,a211,a211,a307,a307,a368,a368,a445,a445,a466,a466",nationalité française,circle,0
+a72,"a46,a46,a69,a69,a72,a72,a276,a276,a371,a371,a378,a378",journaliste,circle,0
+a73,"a73,a73",mise en place,circle,0
+a74,"a74,a74,a433,a433,a439,a439",annulation,circle,0
+a75,"a29,a29,a75,a75,a156,a156,a186,a186,a230,a230,a290,a290,a387,a387,a393,a393",ministère,circle,0
+a76,"a76,a76,a84,a84,a257,a257,a314,a314,a323,a323,a429,a429,a458,a458,a462,a462",entreprises de le cac 40,circle,0
+a77,"a77,a77,a321,a321,a431,a431",chômage,circle,0
+a78,"a59,a59,a65,a65,a78,a78,a148,a148,a229,a229,a378,a378,a402,a402",distribution,circle,0
+a79,"a0,a0,a79,a79,a211,a211,a248,a248,a262,a262,a331,a331,a356,a356,a374,a374,a379,a379,a394,a394,a458,a458",argent liquide,circle,0
+a80,"a47,a47,a80,a80,a99,a99,a439,a439",élection,circle,0
+a81,"a81,a81,a97,a97,a278,a278,a355,a355,a382,a382",écologie,circle,0
+a82,"a82,a82,a205,a205,a451,a451",prix,circle,0
+a83,"a40,a40,a64,a64,a83,a83,a137,a137",source,circle,0
+a84,"a76,a76,a84,a84,a251,a251,a257,a257,a314,a314,a493,a493",tpe,circle,0
+a85,"a85,a85,a270,a270,a324,a324,a354,a354,a369,a369",dignité,circle,0
+a86,"a8,a8,a86,a86",état,circle,0
+a87,"a7,a7,a87,a87,a105,a105,a178,a178,a261,a261",liste,circle,0
+a88,"a88,a88,a200,a200,a242,a242,a362,a362,a425,a425,a460,a460",population,circle,0
+a89,"a64,a64,a89,a89,a321,a321,a323,a323,a379,a379,a458,a458,a470,a470",chasse,circle,0
+a90,"a15,a15,a64,a64,a90,a90,a137,a137,a163,a163,a182,a182,a186,a186,a307,a307,a466,a466,a478,a478,a481,a481,a491,a491",acte,circle,0
+a91,"a91,a91",france,circle,0
+a92,"a43,a43,a46,a46,a59,a59,a92,a92,a295,a295,a327,a327,a421,a421,a449,a449",télévision,circle,0
+a93,"a32,a32,a93,a93,a166,a166,a174,a174,a179,a179",maire,circle,0
+a94,"a54,a54,a70,a70,a94,a94,a154,a154,a199,a199,a254,a254,a375,a375,a473,a473,a478,a478",âge,circle,0
+a95,"a95,a95,a142,a142,a180,a180,a235,a235,a352,a352",pacte de marrakech,circle,0
+a96,"a18,a18,a96,a96,a149,a149,a178,a178,a191,a191,a227,a227,a268,a268,a297,a297,a306,a306,a311,a311,a357,a357,a383,a383,a448,a448,a474,a474,a480,a480",des représentants de le peuple,circle,0
+a97,"a81,a81,a97,a97,a139,a139,a170,a170,a215,a215,a232,a232,a247,a247,a256,a256,a273,a273,a347,a347,a455,a455",avion,circle,0
+a98,"a0,a0,a17,a17,a98,a98,a108,a108,a162,a162,a221,a221,a264,a264,a327,a327",indépendance,circle,0
+a99,"a47,a47,a80,a80,a99,a99,a131,a131,a258,a258,a468,a468",proportionnelle,circle,0
+a100,"a30,a30,a51,a51,a100,a100,a168,a168,a177,a177,a181,a181,a285,a285,a310,a310,a404,a404,a455,a455,a472,a472,a473,a473",ecole,circle,0
+a101,"a101,a101,a130,a130,a151,a151,a344,a344,a416,a416,a459,a459",produits de luxe,circle,0
+a102,"a102,a102,a163,a163,a169,a169,a356,a356,a376,a376,a503,a503,a505,a505",permis,circle,0
+a103,"a103,a103,a292,a292,a318,a318,a338,a338,a354,a354,a395,a395",répartition,circle,0
+a104,"a104,a104",parlementaire,circle,0
+a105,"a87,a87,a105,a105,a320,a320,a351,a351,a374,a374,a379,a379",liste gj,circle,0
+a106,"a47,a47,a106,a106",représentation,circle,0
+a107,"a107,a107,a140,a140,a489,a489",manque,circle,0
+a108,"a98,a98,a108,a108,a147,a147,a165,a165,a221,a221,a254,a254,a350,a350,a440,a440,a474,a474",syndicat,circle,0
+a109,"a109,a109,a194,a194,a219,a219,a231,a231,a258,a258,a263,a263,a299,a299",référendum d' initiative citoyenne,circle,0
+a110,"a110,a110,a180,a180,a236,a236,a241,a241,a256,a256,a307,a307,a330,a330,a341,a341,a425,a425",immigré,circle,0
+a111,"a111,a111,a203,a203,a261,a261,a370,a370,a487,a487",amnistie,circle,0
+a112,"a112,a112,a398,a398,a502,a502",imposition,circle,0
+a113,"a17,a17,a34,a34,a113,a113,a230,a230,a289,a289",otan,circle,0
+a114,"a23,a23,a58,a58,a114,a114,a126,a126,a280,a280,a304,a304,a368,a368,a403,a403",regroupement familial,circle,0
+a115,"a115,a115,a291,a291,a402,a402",migrant,circle,0
+a116,"a5,a5,a116,a116,a191,a191,a238,a238,a279,a279,a303,a303,a376,a376,a434,a434,a505,a505,a507,a507",km/h,circle,0
+a117,"a117,a117,a355,a355",loi,circle,0
+a118,"a118,a118",citoyenneté,circle,0
+a119,"a119,a119",frais,circle,0
+a120,"a120,a120,a130,a130,a151,a151,a152,a152,a312,a312",tva,circle,0
+a121,"a121,a121,a368,a368",droit,circle,0
+a122,"a122,a122,a314,a314,a327,a327,a398,a398,a436,a436,a457,a457",patron,circle,0
+a123,"a123,a123,a323,a323,a362,a362",transparence,circle,0
+a124,"a124,a124,a324,a324,a367,a367,a398,a398,a457,a457",heure,circle,0
+a125,"a125,a125,a255,a255",anciens présidents,circle,0
+a126,"a114,a114,a126,a126,a171,a171,a180,a180,a280,a280,a291,a291,a304,a304,a368,a368,a469,a469",immigration massive,circle,0
+a127,"a5,a5,a71,a71,a127,a127,a129,a129,a186,a186,a203,a203,a216,a216,a355,a355,a445,a445,a447,a447",règle,circle,0
+a128,"a128,a128,a171,a171,a280,a280,a291,a291",étranger,circle,0
+a129,"a127,a127,a129,a129,a158,a158,a274,a274,a355,a355",succession,circle,0
+a130,"a44,a44,a101,a101,a120,a120,a130,a130,a151,a151,a152,a152,a312,a312,a373,a373,a459,a459",tva sur les produits,circle,0
+a131,"a47,a47,a99,a99,a131,a131,a468,a468",représentativité,circle,0
+a132,"a21,a21,a132,a132,a166,a166,a182,a182,a425,a425",maison,circle,0
+a133,"a133,a133",personne,circle,0
+a134,"a56,a56,a134,a134,a419,a419,a433,a433",abstention,circle,0
+a135,"a135,a135",institution,circle,0
+a136,"a136,a136,a192,a192,a292,a292,a386,a386,a408,a408,a425,a425,a494,a494",partage,circle,0
+a137,"a15,a15,a64,a64,a83,a83,a90,a90,a137,a137,a155,a155,a186,a186,a252,a252,a413,a413,a470,a470,a491,a491",souffrance,circle,0
+a138,,retraite,circle,0
+a139,"a16,a16,a27,a27,a97,a97,a139,a139,a170,a170,a215,a215,a232,a232,a256,a256,a317,a317,a394,a394,a416,a416",kérosène,circle,0
+a140,"a21,a21,a41,a41,a107,a107,a140,a140,a164,a164,a204,a204,a310,a310,a311,a311,a320,a320,a374,a374,a446,a446",campagne,circle,0
+a141,"a5,a5,a36,a36,a141,a141,a169,a169,a181,a181,a244,a244,a450,a450,a451,a451,a500,a500",entretien,circle,0
+a142,"a95,a95,a142,a142,a235,a235",pacte,circle,0
+a143,"a143,a143,a284,a284,a453,a453",train,circle,0
+a144,"a144,a144",hausse,circle,0
+a145,"a145,a145,a243,a243,a275,a275,a339,a339,a340,a340,a401,a401,a404,a404,a472,a472,a482,a482",élève,circle,0
+a146,"a7,a7,a146,a146,a290,a290",handicapé,circle,0
+a147,"a54,a54,a108,a108,a147,a147,a270,a270,a285,a285,a393,a393",égalité,circle,0
+a148,"a78,a78,a148,a148,a169,a169,a229,a229,a259,a259,a390,a390,a435,a435,a479,a479",moteur,circle,0
+a149,"a18,a18,a96,a96,a149,a149,a191,a191,a227,a227,a268,a268,a297,a297,a306,a306,a311,a311,a357,a357,a383,a383,a448,a448,a474,a474,a480,a480",limitation des dépenses,circle,0
+a150,"a61,a61,a150,a150,a206,a206,a232,a232,a343,a343",retour de l' isf,circle,0
+a151,"a101,a101,a120,a120,a130,a130,a151,a151,a312,a312",ère,circle,0
+a152,"a44,a44,a120,a120,a130,a130,a152,a152,a226,a226,a312,a312",suppression de la tva,circle,0
+a153,"a153,a153,a357,a357",peuple,circle,0
+a154,"a94,a94,a154,a154,a213,a213,a254,a254,a341,a341,a375,a375,a401,a401,a421,a421,a506,a506",60 ans,circle,0
+a155,"a13,a13,a137,a137,a155,a155,a186,a186,a214,a214,a252,a252,a360,a360,a389,a389,a399,a399,a470,a470,a491,a491",rituel,circle,0
+a156,"a15,a15,a19,a19,a41,a41,a64,a64,a75,a75,a156,a156,a186,a186,a252,a252,a382,a382,a444,a444,a455,a455,a470,a470",protection,circle,0
+a157,"a12,a12,a157,a157,a200,a200,a284,a284,a342,a342",gaspillage,circle,0
+a158,"a129,a129,a158,a158",réduction,circle,0
+a159,"a24,a24,a159,a159,a201,a201,a232,a232,a239,a239,a244,a244,a269,a269",dette,circle,0
+a160,"a160,a160,a218,a218,a222,a222,a226,a226,a310,a310,a367,a367,a390,a390",baisser les taxes,circle,0
+a161,"a32,a32,a161,a161,a166,a166,a179,a179,a287,a287,a436,a436,a449,a449",département,circle,0
+a162,"a98,a98,a162,a162,a176,a176,a464,a464",justice,circle,0
+a163,"a21,a21,a90,a90,a102,a102,a163,a163,a209,a209,a376,a376,a478,a478,a503,a503,a505,a505",dépassement,circle,0
+a164,"a140,a140,a164,a164,a217,a217",poste,circle,0
+a165,"a52,a52,a108,a108,a165,a165,a371,a371,a387,a387,a402,a402,a417,a417",subvention,circle,0
+a166,"a32,a32,a93,a93,a132,a132,a161,a161,a166,a166,a179,a179",commune,circle,0
+a167,"a167,a167,a410,a410,a423,a423",mandat,circle,0
+a168,"a21,a21,a100,a100,a168,a168,a181,a181,a242,a242,a302,a302,a316,a316,a404,a404,a436,a436,a466,a466",enseignement,circle,0
+a169,"a27,a27,a38,a38,a102,a102,a141,a141,a148,a148,a169,a169,a249,a249,a311,a311,a346,a346",véhicule,circle,0
+a170,"a97,a97,a139,a139,a170,a170,a215,a215,a250,a250,a390,a390,a454,a454,a495,a495",gros pollueurs,circle,0
+a171,"a71,a71,a126,a126,a128,a128,a171,a171,a211,a211,a254,a254,a274,a274,a280,a280,a330,a330,a353,a353,a445,a445",prestations sociales,circle,0
+a172,"a172,a172,a258,a258",ric,circle,0
+a173,"a21,a21,a22,a22,a173,a173,a498,a498",consultation,circle,0
+a174,"a93,a93,a174,a174,a262,a262,a300,a300,a409,a409,a441,a441",action,circle,0
+a175,"a27,a27,a175,a175,a326,a326,a430,a430",énergie,circle,0
+a176,"a42,a42,a54,a54,a162,a162,a176,a176,a211,a211,a241,a241,a291,a291,a464,a464",crime,circle,0
+a177,"a57,a57,a100,a100,a177,a177",administration,circle,0
+a178,"a87,a87,a96,a96,a178,a178,a216,a216,a223,a223,a268,a268,a352,a352,a480,a480",site,circle,0
+a179,"a8,a8,a32,a32,a93,a93,a161,a161,a166,a166,a179,a179,a282,a282,a349,a349",communauté,circle,0
+a180,"a95,a95,a110,a110,a126,a126,a180,a180,a330,a330,a403,a403",immigration,circle,0
+a181,"a100,a100,a141,a141,a168,a168,a181,a181,a380,a380",art,circle,0
+a182,"a21,a21,a90,a90,a132,a132,a182,a182,a214,a214,a274,a274,a319,a319,a374,a374",hôpitaux,circle,0
+a183,"a183,a183,a204,a204,a261,a261,a351,a351,a412,a412,a455,a455,a460,a460,a487,a487",violences policières,circle,0
+a184,"a2,a2,a69,a69,a184,a184,a278,a278,a393,a393,a433,a433,a439,a439",prise en compte,circle,0
+a185,"a185,a185",système,circle,0
+a186,"a15,a15,a64,a64,a75,a75,a90,a90,a127,a127,a137,a137,a155,a155,a156,a156,a186,a186,a203,a203,a209,a209,a252,a252,a276,a276,a382,a382,a387,a387,a470,a470,a491,a491",animal,circle,0
+a187,"a187,a187,a391,a391,a456,a456",coût de la vie,circle,0
+a188,"a188,a188,a408,a408,a438,a438",suppression de la csg,circle,0
+a189,"a189,a189",produit,circle,0
+a190,"a57,a57,a190,a190,a349,a349",dépense,circle,0
+a191,"a18,a18,a69,a69,a96,a96,a116,a116,a149,a149,a191,a191,a238,a238,a268,a268,a297,a297,a303,a303,a306,a306,a335,a335,a376,a376,a434,a434,a448,a448,a480,a480",limitation,circle,0
+a192,"a48,a48,a136,a136,a192,a192,a198,a198,a292,a292,a298,a298,a494,a494",bénéfice,circle,0
+a193,"a193,a193,a318,a318",politique,circle,0
+a194,"a63,a63,a109,a109,a194,a194,a219,a219,a231,a231,a299,a299,a423,a423",référendum,circle,0
+a195,"a62,a62,a63,a63,a71,a71,a195,a195,a209,a209,a243,a243,a275,a275,a339,a339,a341,a341,a404,a404",éducation,circle,0
+a196,"a13,a13,a30,a30,a196,a196,a302,a302,a362,a362",enfant,circle,0
+a197,"a197,a197,a207,a207,a294,a294",évasion,circle,0
+a198,"a192,a192,a198,a198,a248,a248,a485,a485",caisse,circle,0
+a199,"a94,a94,a199,a199,a375,a375,a424,a424",régime,circle,0
+a200,"a46,a46,a88,a88,a157,a157,a200,a200,a316,a316,a357,a357,a375,a375,a378,a378,a404,a404,a465,a465",communication,circle,0
+a201,"a0,a0,a49,a49,a159,a159,a201,a201,a230,a230,a239,a239,a286,a286,a465,a465,a498,a498",banque de france,circle,0
+a202,"a202,a202,a307,a307",pays,circle,0
+a203,"a111,a111,a127,a127,a186,a186,a203,a203,a243,a243,a262,a262,a319,a319,a342,a342,a369,a369,a440,a440,a487,a487",sécurité,circle,0
+a204,"a21,a21,a60,a60,a140,a140,a183,a183,a204,a204,a378,a378,a487,a487",partie,circle,0
+a205,"a3,a3,a70,a70,a82,a82,a205,a205,a254,a254,a327,a327,a383,a383,a426,a426,a490,a490",mutuelle,circle,0
+a206,"a62,a62,a150,a150,a206,a206,a298,a298,a469,a469",riche,circle,0
+a207,"a25,a25,a48,a48,a197,a197,a207,a207,a294,a294",évasion fiscale,circle,0
+a208,"a208,a208,a281,a281",logement,circle,0
+a209,"a163,a163,a186,a186,a195,a195,a209,a209,a231,a231",domaine,circle,0
+a210,"a210,a210,a294,a294,a407,a407",niche,circle,0
+a211,"a42,a42,a71,a71,a79,a79,a171,a171,a176,a176,a211,a211,a273,a273,a455,a455",mort,circle,0
+a212,"a212,a212",entreprise,circle,0
+a213,"a154,a154,a213,a213,a321,a321,a375,a375,a401,a401,a421,a421,a506,a506",laisser la place,circle,0
+a214,"a5,a5,a13,a13,a155,a155,a182,a182,a214,a214,a273,a273,a278,a278,a355,a355,a382,a382,a389,a389,a399,a399,a429,a429,a431,a431,a454,a454,a463,a463,a465,a465",destruction,circle,0
+a215,"a97,a97,a139,a139,a170,a170,a215,a215,a250,a250,a259,a259,a463,a463,a495,a495",pollueur,circle,0
+a216,"a13,a13,a29,a29,a127,a127,a178,a178,a216,a216,a223,a223,a366,a366,a382,a382,a464,a464,a482,a482,a491,a491,a498,a498",non respect,circle,0
+a217,"a14,a14,a164,a164,a217,a217,a227,a227,a260,a260,a271,a271,a309,a309,a366,a366,a382,a382,a411,a411,a418,a418",corruption,circle,0
+a218,"a65,a65,a160,a160,a218,a218,a226,a226,a278,a278,a310,a310,a326,a326,a342,a342,a382,a382,a501,a501",eau,circle,0
+a219,"a109,a109,a194,a194,a219,a219,a231,a231,a258,a258,a263,a263,a299,a299",initiative citoyenne,circle,0
+a220,"a13,a13,a220,a220,a243,a243,a339,a339,a404,a404,a472,a472",école,circle,0
+a221,"a98,a98,a108,a108,a221,a221,a239,a239,a386,a386,a393,a393,a395,a395,a402,a402,a463,a463",financement,circle,0
+a222,"a160,a160,a222,a222",taxe,circle,0
+a223,"a29,a29,a178,a178,a216,a216,a223,a223,a313,a313,a340,a340,a366,a366,a444,a444,a482,a482",non respect de notre terre mère,circle,0
+a224,"a224,a224,a267,a267,a293,a293",baisse de le pouvoir d' achat,circle,0
+a225,"a225,a225,a450,a450",travailleur,circle,0
+a226,"a152,a152,a160,a160,a218,a218,a226,a226,a310,a310,a367,a367,a387,a387,a390,a390,a430,a430,a457,a457",facture,circle,0
+a227,"a7,a7,a18,a18,a96,a96,a149,a149,a217,a217,a227,a227,a268,a268,a297,a297,a306,a306,a357,a357,a425,a425,a448,a448,a480,a480",représentant,circle,0
+a228,"a3,a3,a228,a228,a265,a265,a266,a266,a313,a313,a379,a379,a440,a440,a489,a489,a501,a501",démarche,circle,0
+a229,"a78,a78,a148,a148,a229,a229,a329,a329,a387,a387,a430,a430,a444,a444,a501,a501",co 2,circle,0
+a230,"a17,a17,a29,a29,a75,a75,a113,a113,a201,a201,a230,a230,a278,a278,a353,a353,a395,a395,a412,a412,a457,a457",perte,circle,0
+a231,"a22,a22,a63,a63,a109,a109,a194,a194,a209,a209,a219,a219,a231,a231,a258,a258",r.i.c.,circle,0
+a232,"a5,a5,a97,a97,a139,a139,a150,a150,a159,a159,a232,a232,a394,a394,a400,a400",millions d' euros,circle,0
+a233,"a233,a233,a263,a263,a423,a423",constitution,circle,0
+a234,"a234,a234,a256,a256,a275,a275,a431,a431,a441,a441,a458,a458",taxation,circle,0
+a235,"a13,a13,a95,a95,a142,a142,a235,a235,a352,a352,a360,a360,a380,a380,a389,a389,a399,a399,a470,a470,a473,a473,a501,a501",islamisation,circle,0
+a236,"a62,a62,a110,a110,a236,a236,a425,a425",intégration,circle,0
+a237,"a15,a15,a237,a237,a387,a387,a432,a432",modèle,circle,0
+a238,"a5,a5,a116,a116,a191,a191,a238,a238,a279,a279,a303,a303,a376,a376,a434,a434,a505,a505,a507,a507",km,circle,0
+a239,"a19,a19,a49,a49,a159,a159,a201,a201,a221,a221,a239,a239,a244,a244,a286,a286,a298,a298,a313,a313,a386,a386,a496,a496",création monétaire,circle,0
+a240,"a240,a240,a314,a314",gafa,circle,0
+a241,"a110,a110,a176,a176,a241,a241,a342,a342,a368,a368,a445,a445",frontière,circle,0
+a242,"a88,a88,a168,a168,a242,a242,a316,a316,a370,a370,a404,a404",rôle,circle,0
+a243,"a2,a2,a70,a70,a145,a145,a195,a195,a203,a203,a220,a220,a243,a243,a275,a275,a337,a337,a339,a339,a440,a440,a444,a444,a446,a446,a478,a478",long terme,circle,0
+a244,"a46,a46,a141,a141,a159,a159,a239,a239,a244,a244",conséquence,circle,0
+a245,"a31,a31,a55,a55,a245,a245,a290,a290,a350,a350,a397,a397,a492,a492",allocation adulte,circle,0
+a246,"a60,a60,a246,a246",emploi,circle,0
+a247,"a97,a97,a247,a247,a256,a256,a326,a326,a430,a430,a486,a486,a495,a495",transition ecologique,circle,0
+a248,"a79,a79,a198,a198,a248,a248,a269,a269,a418,a418",paiement,circle,0
+a249,"a169,a169,a249,a249,a389,a389,a390,a390,a495,a495,a498,a498",transition énergétique,circle,0
+a250,"a170,a170,a215,a215,a250,a250,a335,a335,a495,a495",transition écologique,circle,0
+a251,"a52,a52,a84,a84,a251,a251,a450,a450",charge,circle,0
+a252,"a15,a15,a64,a64,a137,a137,a155,a155,a156,a156,a186,a186,a252,a252,a333,a333,a382,a382,a447,a447,a470,a470,a491,a491",animaux,circle,0
+a253,"a23,a23,a253,a253,a343,a343",aide,circle,0
+a254,"a94,a94,a108,a108,a154,a154,a171,a171,a205,a205,a254,a254,a431,a431",cotisation,circle,0
+a255,"a125,a125,a255,a255",président,circle,0
+a256,"a97,a97,a110,a110,a139,a139,a234,a234,a247,a247,a256,a256,a273,a273,a347,a347,a479,a479",bateaux,circle,0
+a257,"a76,a76,a84,a84,a257,a257,a314,a314,a450,a450,a493,a493",pme,circle,0
+a258,"a22,a22,a99,a99,a109,a109,a172,a172,a219,a219,a231,a231,a258,a258,a275,a275,a332,a332",instauration,circle,0
+a259,"a27,a27,a29,a29,a59,a59,a148,a148,a215,a215,a259,a259,a278,a278,a447,a447",pollution,circle,0
+a260,"a14,a14,a217,a217,a260,a260,a271,a271,a275,a275,a309,a309",casier judiciaire vierge,circle,0
+a261,"a7,a7,a87,a87,a111,a111,a183,a183,a261,a261,a371,a371,a455,a455,a464,a464,a487,a487",gilets jaunes,circle,0
+a262,"a79,a79,a174,a174,a203,a203,a262,a262,a333,a333,a340,a340,a356,a356",trafic,circle,0
+a263,"a109,a109,a219,a219,a233,a233,a263,a263,a299,a299,a423,a423,a471,a471",referendum,circle,0
+a264,"a57,a57,a98,a98,a264,a264",statut,circle,0
+a265,"a228,a228,a265,a265,a324,a324,a343,a343",caf,circle,0
+a266,"a228,a228,a266,a266",impot,circle,0
+a267,"a224,a224,a267,a267,a293,a293",baisse de le pouvoir,circle,0
+a268,"a18,a18,a96,a96,a149,a149,a178,a178,a191,a191,a227,a227,a268,a268,a297,a297,a306,a306,a311,a311,a357,a357,a383,a383,a448,a448,a474,a474,a480,a480",des dépenses des représentants de le peuple,circle,0
+a269,"a0,a0,a24,a24,a36,a36,a49,a49,a159,a159,a248,a248,a269,a269,a383,a383,a505,a505",dette publique,circle,0
+a270,"a15,a15,a54,a54,a85,a85,a147,a147,a270,a270,a285,a285,a402,a402,a411,a411,a473,a473,a496,a496",liberté,circle,0
+a271,"a14,a14,a20,a20,a217,a217,a260,a260,a271,a271,a411,a411",casier judiciaire,circle,0
+a272,"a272,a272",fonction,circle,0
+a273,"a12,a12,a97,a97,a211,a211,a214,a214,a256,a256,a273,a273,a275,a275,a465,a465",ecologie,circle,0
+a274,"a30,a30,a63,a63,a129,a129,a171,a171,a182,a182,a274,a274,a354,a354,a369,a369",famille,circle,0
+a275,"a14,a14,a145,a145,a195,a195,a234,a234,a243,a243,a258,a258,a260,a260,a273,a273,a275,a275,a285,a285,a302,a302,a341,a341,a404,a404,a484,a484,a494,a494",maternelle,circle,0
+a276,"a11,a11,a46,a46,a72,a72,a186,a186,a276,a276,a383,a383,a470,a470",controle,circle,0
+a277,"a277,a277",fiscalité,circle,0
+a278,"a9,a9,a81,a81,a184,a184,a214,a214,a218,a218,a230,a230,a259,a259,a278,a278,a335,a335,a395,a395,a444,a444,a454,a454,a484,a484,a500,a500",biodiversité,circle,0
+a279,"a5,a5,a116,a116,a238,a238,a279,a279,a303,a303,a376,a376,a434,a434,a507,a507",80 km/h,circle,0
+a280,"a58,a58,a114,a114,a126,a126,a128,a128,a171,a171,a280,a280,a291,a291,a304,a304,a330,a330",ame,circle,0
+a281,"a208,a208,a281,a281",loyer,circle,0
+a282,"a8,a8,a32,a32,a179,a179,a282,a282,a295,a295",doublon,circle,0
+a283,"a283,a283,a359,a359,a504,a504",député,circle,0
+a284,"a4,a4,a28,a28,a143,a143,a157,a157,a284,a284,a384,a384,a446,a446",grandes villes,circle,0
+a285,"a7,a7,a55,a55,a63,a63,a100,a100,a147,a147,a270,a270,a275,a275,a285,a285,a332,a332,a462,a462,a473,a473",femme,circle,0
+a286,"a201,a201,a239,a239,a286,a286,a354,a354",création,circle,0
+a287,"a62,a62,a161,a161,a287,a287",région,circle,0
+a288,"a288,a288,a462,a462",1500 €,circle,0
+a289,"a113,a113,a289,a289,a377,a377",etat,circle,0
+a290,"a54,a54,a75,a75,a146,a146,a245,a245,a290,a290,a318,a318,a397,a397,a455,a455,a478,a478,a485,a485",handicap,circle,0
+a291,"a58,a58,a115,a115,a126,a126,a128,a128,a176,a176,a280,a280,a291,a291,a330,a330,a403,a403,a445,a445",expulsion,circle,0
+a292,"a103,a103,a136,a136,a192,a192,a292,a292,a338,a338,a494,a494",richesse,circle,0
+a293,"a44,a44,a224,a224,a267,a267,a293,a293",baisse,circle,0
+a294,"a59,a59,a197,a197,a207,a207,a210,a210,a294,a294,a407,a407,a505,a505",optimisation,circle,0
+a295,"a92,a92,a282,a282,a295,a295,a327,a327,a402,a402,a424,a424,a463,a463",argent public,circle,0
+a296,"a296,a296,a362,a362",obligation,circle,0
+a297,"a18,a18,a96,a96,a149,a149,a191,a191,a227,a227,a268,a268,a297,a297,a306,a306,a311,a311,a357,a357,a383,a383,a448,a448,a474,a474,a480,a480",limitation des dépenses des représentants de le peuple,circle,0
+a298,"a40,a40,a52,a52,a62,a62,a192,a192,a206,a206,a239,a239,a298,a298,a354,a354,a441,a441,a469,a469",investissement,circle,0
+a299,"a109,a109,a194,a194,a219,a219,a263,a263,a299,a299",initiative,circle,0
+a300,"a60,a60,a174,a174,a300,a300,a440,a440,a506,a506",rsa,circle,0
+a301,"a301,a301",impôt,circle,0
+a302,"a30,a30,a168,a168,a196,a196,a275,a275,a302,a302,a316,a316,a318,a318,a362,a362,a440,a440,a478,a478",parent,circle,0
+a303,"a36,a36,a116,a116,a191,a191,a238,a238,a279,a279,a303,a303,a376,a376,a434,a434,a507,a507",90 km,circle,0
+a304,"a23,a23,a58,a58,a114,a114,a126,a126,a280,a280,a304,a304,a368,a368",regroupement,circle,0
+a305,"a0,a0,a25,a25,a305,a305,a323,a323,a408,a408,a421,a421,a471,a471",fraude fiscale,circle,0
+a306,"a18,a18,a96,a96,a149,a149,a191,a191,a227,a227,a268,a268,a297,a297,a306,a306,a357,a357,a383,a383,a448,a448,a474,a474,a480,a480",ensemble de la classe,circle,0
+a307,"a42,a42,a71,a71,a90,a90,a110,a110,a202,a202,a307,a307,a401,a401,a445,a445,a466,a466",pays d' origine,circle,0
+a308,"a308,a308",avantage,circle,0
+a309,"a14,a14,a20,a20,a217,a217,a260,a260,a309,a309,a380,a380,a439,a439",politicien,circle,0
+a310,"a100,a100,a140,a140,a160,a160,a218,a218,a226,a226,a310,a310,a367,a367,a390,a390",gaz,circle,0
+a311,"a4,a4,a96,a96,a140,a140,a149,a149,a169,a169,a268,a268,a297,a297,a311,a311,a374,a374,a446,a446,a448,a448,a480,a480,a503,a503",transports en commun,circle,0
+a312,"a120,a120,a130,a130,a151,a151,a152,a152,a312,a312",produits alimentaires,circle,0
+a313,"a223,a223,a228,a228,a239,a239,a313,a313,a318,a318,a323,a323,a449,a449,a454,a454,a498,a498",projet,circle,0
+a314,"a76,a76,a84,a84,a122,a122,a240,a240,a257,a257,a314,a314,a353,a353,a462,a462",cac 40,circle,0
+a315,"a1,a1,a315,a315,a364,a364",d' habitation,circle,0
+a316,"a53,a53,a168,a168,a200,a200,a242,a242,a302,a302,a316,a316,a404,a404,a466,a466",education nationale,circle,0
+a317,"a16,a16,a139,a139,a317,a317",injustice,circle,0
+a318,"a103,a103,a193,a193,a290,a290,a302,a302,a313,a313,a318,a318,a395,a395,a413,a413,a478,a478",aménagement,circle,0
+a319,"a51,a51,a182,a182,a203,a203,a319,a319,a365,a365",gendarmerie,circle,0
+a320,"a105,a105,a140,a140,a320,a320,a374,a374,a432,a432",proximité,circle,0
+a321,"a7,a7,a60,a60,a77,a77,a89,a89,a213,a213,a321,a321,a431,a431,a440,a440",chômeur,circle,0
+a322,"a322,a322,a488,a488",revenu,circle,0
+a323,"a76,a76,a89,a89,a123,a123,a305,a305,a313,a313,a323,a323,a332,a332,a483,a483",paradis fiscaux,circle,0
+a324,"a85,a85,a124,a124,a265,a265,a324,a324",choix,circle,0
+a325,"a325,a325,a471,a471",macron,circle,0
+a326,"a175,a175,a218,a218,a247,a247,a326,a326,a416,a416,a495,a495",énergies renouvelables,circle,0
+a327,"a46,a46,a59,a59,a92,a92,a98,a98,a122,a122,a205,a205,a295,a295,a327,a327,a449,a449,a481,a481,a482,a482",chaine,circle,0
+a328,"a328,a328,a416,a416",pouvoir d achat,circle,0
+a329,"a229,a229,a329,a329",gestion,circle,0
+a330,"a110,a110,a171,a171,a180,a180,a280,a280,a291,a291,a330,a330,a466,a466",situation irrégulière,circle,0
+a331,"a79,a79,a331,a331,a356,a356",argent,circle,0
+a332,"a0,a0,a63,a63,a258,a258,a285,a285,a323,a323,a332,a332,a342,a342,a395,a395",principe,circle,0
+a333,"a26,a26,a36,a36,a38,a38,a64,a64,a252,a252,a262,a262,a333,a333,a346,a346",vente,circle,0
+a334,"a334,a334,a424,a424",hauts fonctionnaires,circle,0
+a335,"a9,a9,a191,a191,a250,a250,a278,a278,a335,a335,a387,a387,a426,a426",pesticide,circle,0
+a336,"a336,a336,a409,a409",compte,circle,0
+a337,"a243,a243,a337,a337",lois,circle,0
+a338,"a103,a103,a292,a292,a338,a338,a451,a451,a474,a474",répartition des richesses,circle,0
+a339,"a145,a145,a195,a195,a220,a220,a243,a243,a339,a339,a370,a370,a440,a440,a442,a442,a472,a472,a478,a478",professeur,circle,0
+a340,"a21,a21,a27,a27,a145,a145,a223,a223,a262,a262,a340,a340,a349,a349,a356,a356",zone,circle,0
+a341,"a110,a110,a154,a154,a195,a195,a275,a275,a341,a341,a404,a404,a449,a449,a506,a506",apprentissage,circle,0
+a342,"a0,a0,a12,a12,a26,a26,a157,a157,a203,a203,a218,a218,a241,a241,a332,a332,a342,a342,a396,a396",air,circle,0
+a343,"a23,a23,a30,a30,a150,a150,a253,a253,a265,a265,a343,a343,a408,a408,a484,a484",apl,circle,0
+a344,"a101,a101,a344,a344,a416,a416,a459,a459",luxe,circle,0
+a345,"a345,a345",indemnité,circle,0
+a346,"a26,a26,a38,a38,a59,a59,a169,a169,a333,a333,a346,a346,a454,a454",obsolescence programmée,circle,0
+a347,"a27,a27,a97,a97,a256,a256,a347,a347",carburant,circle,0
+a348,"a50,a50,a348,a348",smic,circle,0
+a349,"a8,a8,a32,a32,a57,a57,a179,a179,a190,a190,a340,a340,a349,a349,a409,a409,a489,a489",dépense publique,circle,0
+a350,"a31,a31,a108,a108,a245,a245,a350,a350,a397,a397",attribution,circle,0
+a351,"a17,a17,a19,a19,a105,a105,a183,a183,a351,a351,a371,a371,a412,a412,a496,a496",union,circle,0
+a352,"a19,a19,a95,a95,a178,a178,a235,a235,a352,a352,a360,a360,a380,a380,a394,a394,a460,a460,a473,a473",islam,circle,0
+a353,"a35,a35,a171,a171,a230,a230,a314,a314,a353,a353,a388,a388",livret,circle,0
+a354,"a85,a85,a103,a103,a274,a274,a286,a286,a298,a298,a354,a354,a369,a369,a425,a425,a444,a444",courage,circle,0
+a355,"a22,a22,a63,a63,a81,a81,a117,a117,a127,a127,a129,a129,a214,a214,a355,a355",mariage,circle,0
+a356,"a42,a42,a79,a79,a102,a102,a262,a262,a331,a331,a340,a340,a356,a356",drogue,circle,0
+a357,"a18,a18,a96,a96,a149,a149,a153,a153,a200,a200,a227,a227,a268,a268,a297,a297,a306,a306,a357,a357,a448,a448,a480,a480",de le peuple,circle,0
+a358,"a358,a358",élu,circle,0
+a359,"a67,a67,a283,a283,a359,a359,a504,a504",nombre de députés,circle,0
+a360,"a13,a13,a155,a155,a235,a235,a352,a352,a360,a360,a380,a380,a417,a417,a470,a470,a473,a473,a491,a491",laïcité,circle,0
+a361,"a361,a361,a414,a414",privilège,circle,0
+a362,"a88,a88,a123,a123,a196,a196,a296,a296,a302,a302,a362,a362",vaccin,circle,0
+a363,"a363,a363,a384,a384",assemblée,circle,0
+a364,"a1,a1,a315,a315,a364,a364",taxe d' habitation,circle,0
+a365,"a20,a20,a51,a51,a319,a319,a365,a365,a440,a440,a460,a460,a464,a464",police,circle,0
+a366,"a29,a29,a216,a216,a217,a217,a223,a223,a366,a366,a382,a382,a411,a411,a439,a439",fond,circle,0
+a367,"a124,a124,a160,a160,a226,a226,a310,a310,a367,a367",électricité,circle,0
+a368,"a58,a58,a71,a71,a114,a114,a121,a121,a126,a126,a241,a241,a304,a304,a368,a368,a445,a445",sol,circle,0
+a369,"a85,a85,a203,a203,a274,a274,a354,a354,a369,a369,a473,a473",paix,circle,0
+a370,"a19,a19,a111,a111,a242,a242,a339,a339,a370,a370,a423,a423",parlement,circle,0
+a371,"a28,a28,a69,a69,a72,a72,a165,a165,a261,a261,a351,a351,a371,a371,a402,a402,a412,a412,a429,a429",media,circle,0
+a372,"a372,a372",travail,circle,0
+a373,"a130,a130,a373,a373,a416,a416",produits de première nécessité,circle,0
+a374,"a21,a21,a79,a79,a105,a105,a140,a140,a182,a182,a311,a311,a320,a320,a374,a374,a431,a431",commerce,circle,0
+a375,"a94,a94,a154,a154,a199,a199,a200,a200,a213,a213,a375,a375,a401,a401,a465,a465",départ,circle,0
+a376,"a5,a5,a102,a102,a116,a116,a163,a163,a191,a191,a238,a238,a279,a279,a303,a303,a376,a376,a434,a434,a451,a451,a507,a507",vitesse,circle,0
+a377,"a289,a289,a377,a377,a409,a409,a452,a452,a475,a475",depense,circle,0
+a378,"a46,a46,a72,a72,a78,a78,a200,a200,a204,a204,a378,a378,a402,a402",information,circle,0
+a379,"a60,a60,a79,a79,a89,a89,a105,a105,a228,a228,a379,a379,a503,a503",carte,circle,0
+a380,"a181,a181,a235,a235,a309,a309,a352,a352,a360,a360,a380,a380,a464,a464",application,circle,0
+a381,"a381,a381,a459,a459",augmentation,circle,0
+a382,"a81,a81,a156,a156,a186,a186,a214,a214,a216,a216,a217,a217,a218,a218,a252,a252,a366,a366,a382,a382,a396,a396,a411,a411,a454,a454,a466,a466",nature,circle,0
+a383,"a18,a18,a96,a96,a149,a149,a205,a205,a268,a268,a269,a269,a276,a276,a297,a297,a306,a306,a383,a383,a448,a448,a480,a480",remboursement,circle,0
+a384,"a284,a284,a363,a363,a384,a384",assemblée citoyenne,circle,0
+a385,"a385,a385",monde,circle,0
+a386,"a136,a136,a221,a221,a239,a239,a386,a386,a408,a408,a463,a463",revenu universel,circle,0
+a387,"a29,a29,a75,a75,a165,a165,a186,a186,a226,a226,a229,a229,a237,a237,a335,a335,a387,a387,a394,a394,a444,a444,a470,a470",agriculture,circle,0
+a388,"a353,a353,a388,a388,a405,a405,a428,a428",inflation,circle,0
+a389,"a9,a9,a13,a13,a155,a155,a214,a214,a235,a235,a249,a249,a389,a389,a399,a399,a470,a470,a476,a476",port,circle,0
+a390,"a148,a148,a160,a160,a170,a170,a226,a226,a249,a249,a310,a310,a390,a390,a430,a430,a447,a447,a501,a501",chauffage,circle,0
+a391,"a187,a187,a391,a391",coût,circle,0
+a392,"a392,a392",gouvernement,circle,0
+a393,"a21,a21,a53,a53,a75,a75,a147,a147,a184,a184,a221,a221,a393,a393,a424,a424",étude,circle,0
+a394,"a25,a25,a79,a79,a139,a139,a232,a232,a352,a352,a387,a387,a394,a394,a460,a460",euros par an,circle,0
+a395,"a70,a70,a103,a103,a221,a221,a230,a230,a278,a278,a318,a318,a332,a332,a395,a395,a435,a435,a444,a444,a484,a484",industrie,circle,0
+a396,"a342,a342,a382,a382,a396,a396,a448,a448,a474,a474,a479,a479",chauffeur,circle,0
+a397,"a31,a31,a245,a245,a290,a290,a350,a350,a397,a397,a494,a494",conjoint,circle,0
+a398,"a112,a112,a122,a122,a124,a124,a398,a398,a401,a401,a431,a431,a469,a469",heures supplémentaires,circle,0
+a399,"a13,a13,a46,a46,a155,a155,a214,a214,a235,a235,a389,a389,a399,a399,a470,a470,a501,a501",voile,circle,0
+a400,"a232,a232,a400,a400",euro,circle,0
+a401,"a145,a145,a154,a154,a213,a213,a307,a307,a375,a375,a398,a398,a401,a401",age,circle,0
+a402,"a46,a46,a78,a78,a115,a115,a165,a165,a221,a221,a270,a270,a295,a295,a371,a371,a378,a378,a402,a402,a424,a424,a473,a473",presse,circle,0
+a403,"a58,a58,a114,a114,a180,a180,a291,a291,a403,a403",asile,circle,0
+a404,"a53,a53,a100,a100,a145,a145,a168,a168,a195,a195,a200,a200,a220,a220,a242,a242,a275,a275,a316,a316,a341,a341,a404,a404,a472,a472",education,circle,0
+a405,"a388,a388,a405,a405,a428,a428",retraites sur l' inflation,circle,0
+a406,"a406,a406",suppression,circle,0
+a407,"a210,a210,a294,a294,a407,a407",niches fiscales,circle,0
+a408,"a42,a42,a136,a136,a188,a188,a305,a305,a343,a343,a386,a386,a408,a408,a484,a484",plancher,circle,0
+a409,"a69,a69,a174,a174,a336,a336,a349,a349,a377,a377,a409,a409",cour des comptes,circle,0
+a410,"a167,a167,a410,a410",cumul,circle,0
+a411,"a15,a15,a42,a42,a217,a217,a270,a270,a271,a271,a366,a366,a382,a382,a411,a411",condamnation,circle,0
+a412,"a17,a17,a19,a19,a183,a183,a230,a230,a351,a351,a371,a371,a412,a412,a496,a496",union européenne,circle,0
+a413,"a137,a137,a318,a318,a413,a413",territoire,circle,0
+a414,"a361,a361,a414,a414",privilèges des élus,circle,0
+a415,"a60,a60,a415,a415",salarié,circle,0
+a416,"a101,a101,a139,a139,a326,a326,a328,a328,a344,a344,a373,a373,a416,a416",nécessite,circle,0
+a417,"a165,a165,a360,a360,a417,a417,a449,a449",association,circle,0
+a418,"a22,a22,a217,a217,a248,a248,a418,a418,a460,a460",abus,circle,0
+a419,"a56,a56,a134,a134,a419,a419,a433,a433",vote,circle,0
+a420,"a420,a420",français,circle,0
+a421,"a27,a27,a92,a92,a154,a154,a213,a213,a305,a305,a421,a421,a506,a506",place,circle,0
+a422,"a40,a40,a422,a422,a451,a451",actionnaire,circle,0
+a423,"a167,a167,a194,a194,a233,a233,a263,a263,a370,a370,a423,a423",impossibilité,circle,0
+a424,"a199,a199,a295,a295,a334,a334,a393,a393,a402,a402,a424,a424,a490,a490",public,circle,0
+a425,"a88,a88,a110,a110,a132,a132,a136,a136,a227,a227,a236,a236,a354,a354,a425,a425,a444,a444,a446,a446,a454,a454,a501,a501",mixité,circle,0
+a426,"a205,a205,a335,a335,a426,a426",santé,circle,0
+a427,"a34,a34,a427,a427",démocratie,circle,0
+a428,"a388,a388,a405,a405,a428,a428",indexer les retraites,circle,0
+a429,"a52,a52,a69,a69,a76,a76,a214,a214,a371,a371,a429,a429,a493,a493",grandes entreprises,circle,0
+a430,"a55,a55,a175,a175,a226,a226,a229,a229,a247,a247,a390,a390,a430,a430,a501,a501",isolation,circle,0
+a431,"a25,a25,a77,a77,a214,a214,a234,a234,a254,a254,a321,a321,a374,a374,a398,a398,a431,a431",chomage,circle,0
+a432,"a60,a60,a237,a237,a320,a320,a432,a432",accès,circle,0
+a433,"a56,a56,a74,a74,a134,a134,a184,a184,a419,a419,a433,a433,a439,a439",vote blanc,circle,0
+a434,"a5,a5,a36,a36,a116,a116,a191,a191,a238,a238,a279,a279,a303,a303,a376,a376,a434,a434,a461,a461,a507,a507",90 km/h,circle,0
+a435,"a148,a148,a395,a395,a435,a435",développement,circle,0
+a436,"a122,a122,a161,a161,a168,a168,a436,a436,a449,a449,a450,a450",artiste,circle,0
+a437,"a437,a437",pouvoir d' achat,circle,0
+a438,"a188,a188,a438,a438",csg,circle,0
+a439,"a74,a74,a80,a80,a184,a184,a309,a309,a366,a366,a433,a433,a439,a439",candidat,circle,0
+a440,"a62,a62,a108,a108,a203,a203,a228,a228,a243,a243,a300,a300,a302,a302,a321,a321,a339,a339,a365,a365,a440,a440,a457,a457,a472,a472",formation,circle,0
+a441,"a9,a9,a49,a49,a174,a174,a234,a234,a298,a298,a441,a441,a458,a458,a463,a463",spéculation,circle,0
+a442,"a339,a339,a442,a442",revalorisation,circle,0
+a443,"a12,a12,a49,a49,a69,a69,a443,a443,a458,a458",affaire,circle,0
+a444,"a156,a156,a223,a223,a229,a229,a243,a243,a278,a278,a354,a354,a387,a387,a395,a395,a425,a425,a444,a444",environnement,circle,0
+a445,"a71,a71,a127,a127,a171,a171,a241,a241,a291,a291,a307,a307,a368,a368,a445,a445",nationalité,circle,0
+a446,"a140,a140,a243,a243,a284,a284,a311,a311,a425,a425,a446,a446,a451,a451,a494,a494",ville,circle,0
+a447,"a127,a127,a252,a252,a259,a259,a390,a390,a447,a447",norme,circle,0
+a448,"a18,a18,a96,a96,a149,a149,a191,a191,a227,a227,a268,a268,a297,a297,a306,a306,a311,a311,a357,a357,a383,a383,a396,a396,a448,a448,a474,a474,a480,a480",classe politique,circle,0
+a449,"a59,a59,a92,a92,a161,a161,a313,a313,a327,a327,a341,a341,a417,a417,a436,a436,a449,a449,a486,a486",culture,circle,0
+a450,"a141,a141,a225,a225,a251,a251,a257,a257,a436,a436,a450,a450,a496,a496",artisan,circle,0
+a451,"a5,a5,a36,a36,a82,a82,a141,a141,a338,a338,a376,a376,a422,a422,a446,a446,a451,a451,a503,a503",péage,circle,0
+a452,"a377,a377,a452,a452",budget,circle,0
+a453,"a143,a143,a453,a453",train de vie,circle,0
+a454,"a38,a38,a59,a59,a170,a170,a214,a214,a278,a278,a313,a313,a346,a346,a382,a382,a425,a425,a454,a454",planète,circle,0
+a455,"a19,a19,a30,a30,a97,a97,a100,a100,a156,a156,a183,a183,a211,a211,a261,a261,a290,a290,a455,a455,a460,a460,a487,a487",violence,circle,0
+a456,"a33,a33,a187,a187,a456,a456,a461,a461",indexation,circle,0
+a457,"a60,a60,a122,a122,a124,a124,a226,a226,a230,a230,a440,a440,a457,a457,a494,a494",contrat,circle,0
+a458,"a76,a76,a79,a79,a89,a89,a234,a234,a441,a441,a443,a443,a458,a458",transaction,circle,0
+a459,"a101,a101,a130,a130,a344,a344,a381,a381,a459,a459",augmentation de la tva,circle,0
+a460,"a20,a20,a21,a21,a51,a51,a88,a88,a183,a183,a352,a352,a365,a365,a394,a394,a418,a418,a455,a455,a460,a460,a506,a506",ordre,circle,0
+a461,"a33,a33,a434,a434,a456,a456,a461,a461",cout,circle,0
+a462,"a76,a76,a285,a285,a288,a288,a314,a314,a462,a462",écart,circle,0
+a463,"a214,a214,a215,a215,a221,a221,a295,a295,a386,a386,a441,a441,a463,a463,a496,a496",finance,circle,0
+a464,"a2,a2,a53,a53,a162,a162,a176,a176,a216,a216,a261,a261,a365,a365,a380,a380,a464,a464",jugement,circle,0
+a465,"a12,a12,a200,a200,a201,a201,a214,a214,a273,a273,a375,a375,a465,a465,a500,a500",dossier,circle,0
+a466,"a71,a71,a90,a90,a168,a168,a307,a307,a316,a316,a330,a330,a382,a382,a466,a466",origine,circle,0
+a467,"a467,a467",pouvoir,circle,0
+a468,"a37,a37,a47,a47,a99,a99,a131,a131,a468,a468",assemblée nationale,circle,0
+a469,"a62,a62,a126,a126,a206,a206,a298,a298,a398,a398,a469,a469",pauvre,circle,0
+a470,"a13,a13,a15,a15,a64,a64,a89,a89,a137,a137,a155,a155,a156,a156,a186,a186,a235,a235,a252,a252,a276,a276,a360,a360,a387,a387,a389,a389,a399,a399,a470,a470,a482,a482,a491,a491",abattoir,circle,0
+a471,"a263,a263,a305,a305,a325,a325,a471,a471",politique macron,circle,0
+a472,"a100,a100,a145,a145,a220,a220,a339,a339,a404,a404,a440,a440,a472,a472",enseignant,circle,0
+a473,"a54,a54,a94,a94,a100,a100,a235,a235,a270,a270,a285,a285,a352,a352,a360,a360,a369,a369,a402,a402,a473,a473",religion,circle,0
+a474,"a18,a18,a45,a45,a69,a69,a96,a96,a108,a108,a149,a149,a268,a268,a297,a297,a306,a306,a338,a338,a396,a396,a448,a448,a474,a474,a480,a480",préfet,circle,0
+a475,"a377,a377,a475,a475",commission,circle,0
+a476,"a61,a61,a389,a389,a476,a476",rétablissement,circle,0
+a477,"a477,a477,a485,a485",pension,circle,0
+a478,"a3,a3,a15,a15,a90,a90,a94,a94,a163,a163,a243,a243,a290,a290,a302,a302,a318,a318,a339,a339,a478,a478",prise en charge,circle,0
+a479,"a148,a148,a256,a256,a396,a396,a479,a479",voiture,circle,0
+a480,"a18,a18,a96,a96,a149,a149,a178,a178,a191,a191,a227,a227,a268,a268,a297,a297,a306,a306,a311,a311,a357,a357,a383,a383,a448,a448,a474,a474,a480,a480",dépenses des représentants,circle,0
+a481,"a90,a90,a327,a327,a481,a481",alimentation,circle,0
+a482,"a145,a145,a216,a216,a223,a223,a327,a327,a470,a470,a482,a482,a491,a491",respect,circle,0
+a483,"a17,a17,a24,a24,a29,a29,a323,a323,a483,a483,a496,a496",europe,circle,0
+a484,"a275,a275,a278,a278,a343,a343,a395,a395,a408,a408,a484,a484",ressource,circle,0
+a485,"a198,a198,a290,a290,a477,a477,a485,a485",invalidité,circle,0
+a486,"a247,a247,a449,a449,a486,a486",consommation,circle,0
+a487,"a111,a111,a183,a183,a203,a203,a204,a204,a261,a261,a455,a455,a487,a487",manifestation,circle,0
+a488,"a322,a322,a488,a488,a502,a502",impôt sur le revenu,circle,0
+a489,"a107,a107,a228,a228,a349,a349,a489,a489",personnel,circle,0
+a490,"a205,a205,a424,a424,a490,a490",privé,circle,0
+a491,"a15,a15,a64,a64,a90,a90,a137,a137,a155,a155,a186,a186,a216,a216,a252,a252,a360,a360,a470,a470,a482,a482,a491,a491",abattage,circle,0
+a492,"a31,a31,a245,a245,a492,a492",allocation,circle,0
+a493,"a84,a84,a257,a257,a429,a429,a493,a493",cice,circle,0
+a494,"a136,a136,a192,a192,a275,a275,a292,a292,a397,a397,a446,a446,a457,a457,a494,a494",employé,circle,0
+a495,"a170,a170,a215,a215,a247,a247,a249,a249,a250,a250,a326,a326,a495,a495",transition,circle,0
+a496,"a0,a0,a17,a17,a19,a19,a24,a24,a25,a25,a239,a239,a270,a270,a351,a351,a412,a412,a450,a450,a463,a463,a483,a483,a496,a496",frexit,circle,0
+a497,,salaire,circle,0
+a498,"a173,a173,a201,a201,a216,a216,a249,a249,a313,a313,a498,a498",marché,circle,0
+a499,"a499,a499",république,circle,0
+a500,"a12,a12,a141,a141,a278,a278,a465,a465,a500,a500",activité,circle,0
+a501,"a218,a218,a228,a228,a229,a229,a235,a235,a390,a390,a399,a399,a425,a425,a430,a430,a501,a501",construction,circle,0
+a502,"a112,a112,a488,a488,a502,a502",tranche,circle,0
+a503,"a21,a21,a102,a102,a163,a163,a311,a311,a379,a379,a451,a451,a503,a503",tarif,circle,0
+a504,"a67,a67,a283,a283,a359,a359,a504,a504",députés et sénateurs,circle,0
+a505,"a5,a5,a102,a102,a116,a116,a163,a163,a238,a238,a269,a269,a294,a294,a505,a505",radar,circle,0
+a506,"a154,a154,a213,a213,a300,a300,a341,a341,a421,a421,a460,a460,a506,a506",jeune,circle,0
+a507,"a5,a5,a116,a116,a238,a238,a279,a279,a303,a303,a376,a376,a434,a434,a507,a507",80 km,circle,0
